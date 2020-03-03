@@ -1,4 +1,4 @@
-module toggl-2
+module github.com/MartinVandersteen/toggl-2
 
 go 1.14
 
